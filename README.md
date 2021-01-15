@@ -118,12 +118,12 @@ Aqui você pode colocar
 
 Contribuições são sempre bem-vindas. Existem várias maneiras de contribuir com este projeto, como:
 
-💪 Se juntando ao time de desenvolvimento.
-🌟 Dando uma estrela no projeto.
-🐛 Reportando um Bug.
-😅 Indicando um vacilo que eu possa ter cometido.
-📄 Ajudando a melhorar a documentação.
-🚀 Compartilhando este projeto com seus amigos.
+💪 Se juntando ao time de desenvolvimento.<br/>
+🌟 Dando uma estrela no projeto.<br/>
+🐛 Reportando um Bug.<br/>
+😅 Indicando um vacilo que eu possa ter cometido.<br/>
+📄 Ajudando a melhorar a documentação.<br/>
+🚀 Compartilhando este projeto com seus amigos.<br/>
 ## Licença
 
 Aqui você coloca o tipo de licença que o projeto precisa. (MIT, GNU ou afins)
