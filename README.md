@@ -30,6 +30,11 @@ Aqui vai uma descrição do que o meu projeto faz, ou irá fazer.
     - [Yarn](#yarn)
     - [NPM](#npm)
 - [Uso](#uso)
+- [Suporte](#suporte)
+- [RoadMap](#roadmap)
+- [Como Contribuir](#como-contribuir)
+- [Licença](#licença)
+- [Status do projeto](#status-do-projeto)
 
 ## Instalação
 <!-- CASO O PROJETO TENHA UM PROCESSO DE INSTALAÇÃO, COLOQUE COMO O PROCESSO DEVE OCORRER, DO CONTRÁRIO APAGUE ESSA PARTE-->
@@ -92,7 +97,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut condimentum fringill
 
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO -->
 
-## Suport
+## Suporte
 Aqui informamos para as pessoas como elas conseguem ajuda caso encontrem alguma dificuldade/problema.
 
 <img src="https://user-images.githubusercontent.com/77402918/104766760-de601500-5749-11eb-9498-4119dd203181.png" width="100%">
@@ -106,6 +111,29 @@ Basicamente, aqui iremos colocar informações sobre implemetações futuras. Po
 
 <img src="https://user-images.githubusercontent.com/77402918/104767476-fa17eb00-574a-11eb-98c0-a799378abd99.png" width="100%">
 
+- Item 01
+
+    - ***Descrição*** aqui vai a descrição do item.
+
+- Item 02
+
+    - ***Descrição*** aqui vai a descrição do item.    
+
+- Item 03
+
+    - ***Descrição*** aqui vai a descrição do item.
+
+## Como contribuir
+
+Aqui você pode colocar
+
+## Licença
+
+Aqui você coloca o tipo de licença que o projeto precisa. (MIT, GNU ou afins)
+
+## Status do Projeto
+
+Aqui você informa como está o andamento do projeto. ( Finalizado, andamento, congelado e afins).
 
 
 
