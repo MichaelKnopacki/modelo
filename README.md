@@ -6,20 +6,9 @@ Aqui vai uma descrição do que o meu projeto faz, ou irá fazer.
 <img src="https://user-images.githubusercontent.com/72177982/104758412-2cbae700-573d-11eb-8479-7cad2dfe9cc7.png" width="100%">
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO-->
 
-![Version](https://img.shields.io/badge/Version-1.0.0-red) ![Build](https://img.shields.io/badge/Build-Passing-29BF12)
-![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-A76D60) 
-![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-A76D60)
+![Version](https://img.shields.io/badge/Version-1.0.0-red)![Build](https://img.shields.io/badge/Build-Passing-29BF12)![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-A76D60)![Projeto](https://img.shields.io/badge/Projeto-NomeProjeto-A76D60)![Build](https://img.shields.io/badge/Build-Error-red)
 
-![Build](https://img.shields.io/badge/Build-Error-red)
-![Build](https://img.shields.io/badge/Build-Under_Testing-orange)
-![Build](https://img.shields.io/badge/Build-Passing-29BF12)
-
-![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-pink)
-![Label](https://img.shields.io/badge/Label-Valor-blue)
-
-![Language](https://img.shields.io/badge/Language-Markdown-000000)
-![Language](https://img.shields.io/badge/Language-HTML-302683)
-![Language](https://img.shields.io/badge/Language-Java-007396)
+![Build](https://img.shields.io/badge/Build-Under_Testing-orange)![Build](https://img.shields.io/badge/Build-Passing-29BF12)![Code_Quality](https://img.shields.io/badge/Code_Quality-Good-pink)![Label](https://img.shields.io/badge/Label-Valor-blue)![Language](https://img.shields.io/badge/Language-Markdown-000000)
 
 <!-- APAGAR ESSA FOTO E COLOCAR UM SCREENSHOT DO PROJETO-->
 <img src="https://user-images.githubusercontent.com/72177982/104758412-2cbae700-573d-11eb-8479-7cad2dfe9cc7.png" width="100%">
